@@ -2,7 +2,7 @@
 
 
 ## 无视高峰，全天4K高速秒开机场
-### BGP+IEPL多线接入，高速低延迟
+### BGP多线接入，高速低延迟
 ### 原生IP解锁流媒体
 
 **香港：Netflix | Disneyplus (不保证100%） | Dazn | TVB | Amazon Prime | HBO GO | Now E | Viu.TV | BiliBili 港限**
