@@ -17,9 +17,9 @@
 ### 限时折扣：季付9折 半年付8.5折 年付8折
 
 
-**免费注册试用: https://mikasa.cloud/#/register?code=qXg8DJC6**<br/>
-**免费注册试用: https://mikasa.cloud/#/register?code=qXg8DJC6**<br/>
-**免费注册试用: https://mikasa.cloud/#/register?code=qXg8DJC6**<br/>
+**免费注册试用: https://mikasa.cloud/#/register?code=x8NywHbE**<br/>
+**免费注册试用: https://mikasa.cloud/#/register?code=x8NywHbE**<br/>
+**免费注册试用: https://mikasa.cloud/#/register?code=x8NywHbE**<br/>
 
 注：如果全部节点不可用，请先检查客户端是否最新版本。<br/>
   如果不是最新版本，请前往 Mikasa 官网下载最新版本。
